@@ -1,0 +1,168 @@
+#outer-body
+{
+    background-color:#f3efdc;
+    border-width:thick;
+}
+
+#current-page
+{
+    background-color:#eb0000;color:white;padding:40px;
+}
+
+#blackbutton
+{
+    background-color:black;
+    color:white;
+    height:36px;
+    width:100px;
+    border-radius: 12px;
+}
+
+
+#index-main-body
+{
+    border:thin;
+    border-color:black;
+    background-color: #923025
+    ;
+    margin:70px;
+    padding:25px;
+    height:1550px
+}
+
+#index-left-body
+{   border:thin; 
+    border-color:black;
+    background-color:#800020; 
+    float:left;
+    width:30%;
+    height:1000px;
+
+}
+
+
+#index-right-body
+{
+    border:thin; 
+    border-color:black;
+    background-color: white;
+    float:right; 
+    width: 70%;
+    height:1000px;
+
+}
+
+#inner-body2
+{
+    border:thin;
+    border-color:black;
+    background-color: #D88373;
+    margin:70px;
+    padding:25px;
+    height: 1100px;
+}
+
+#resume-main-body
+{
+    border:thin;
+    border-color:black;
+    background-color: #f3efdc;
+    margin:70px;
+    padding:25px;
+    height:1100px
+}
+#resume-left-body
+{   border:thin; 
+    border-color:black;
+    background-color:white; 
+    float:left;
+    width:40%;
+    height:1000px;
+}
+#resume-right-body
+{
+    border:thin; 
+    border-color:black;
+    background-color:white;
+    float:right; 
+    width: 60%;
+    height:1000px;
+}
+
+#personality-main-body
+{
+    border:thin;
+    border-color:black;
+    background-color: #800020;
+    margin:70px;
+    padding:25px;
+    height: 1100px;
+}
+
+#reference-main-body
+{
+    border:thin;
+    border-color:black;
+    background-color: #923025;
+    margin:70px;
+    padding:25px;
+    height: 600px;
+}
+
+#pd-main-body
+{
+    border:thin;
+    border-color:black;
+    background-color: #800020;
+    margin:70px;
+    padding:25px;
+    height: 1100px;
+}
+
+#storyboard-main-body
+{
+    border:thin;
+    border-color:black;
+    background-color: #800020;
+    margin:70px;
+    padding:25px;
+    height: 1000px;
+}
+
+.pagination
+{
+    text-align: center;
+ 
+}
+.pagination a
+{
+    color:black;
+    text-decoration: none;
+    padding: 8px 15px;
+    display: inline-block;
+}
+.pagination a.active
+{
+    background-color: #800020;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.pagination a:hover:not(.active)
+{
+    background-color: rgb(199, 32, 32);
+    border-radius: 5px;
+}
+
+.gallery
+{
+    display: inline-block;
+    border: 1px solid;
+    margin:5px;
+}
+.gallery .description
+{
+    padding: 10px;
+    text-align: center;
+    width: 300px;
+}
